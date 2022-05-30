@@ -242,6 +242,7 @@ public class MainActivity extends AppCompatActivity {
         });
         bm.setOnClickListener(v -> {
 
+
             if (c == ' ') {
                 if (a == 0 && b == 0){
                     int n;
